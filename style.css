@@ -398,3 +398,7 @@ margin-top: 100px;
 .carosel4{
   color: #007bff;
 }
+.text-inline text-lg-start{
+  background-color: red;
+  color: red;
+}
