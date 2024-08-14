@@ -231,7 +231,7 @@
   color: white;
   font-weight: bold;
   font-size: 18px;
-  transition: 0.6s ease;
+  transition: 0.9s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
   background-color: rgba(0,0,0,0.5);
@@ -401,4 +401,9 @@ margin-top: 100px;
 .text-inline text-lg-start{
   background-color: red;
   color: red;
+}
+.col-md-4{
+  color: brown;
+  height: 40%;
+  width: 40%;
 }
